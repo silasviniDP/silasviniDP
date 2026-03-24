@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm silasviniDP</h1>
 
+
+
 <p align="center">
-  <img src="https://media.tenor.com/9sXrJH0l2m4AAAAC/majin-buu.gif" width="140px">
+  <b> 🎌 Anime • 🎧 Love Music </b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-Programming-black?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/GitHub-Projects-111?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Focus-Learning-purple?style=for-the-badge">
 </p>
 
 <p align="center">
