@@ -80,10 +80,10 @@
   <p align="center">
   <sub>Thanks for visiting</sub>
 </p>
-  <img src="https://raw.githubusercontent.com/silasviniDP/silasviniDP/main/gachiakuta-rudo-surebrec.gif" style = "height: 230px; width: 930px;"/>
+  <img src="https://github.com/silasviniDP/silasviniDP/blob/main/GIFS/RudoTeclado.gif" style = "height: 230px; width: 930px;"/>
   <br><br>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:B22222&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:B22222&height=120&width=930&section=footer"/>
 </div>
