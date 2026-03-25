@@ -3,8 +3,18 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider" />
 </p>
 
-<h1 align="center">Silas Vinícius</h1>
-
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding-right: 10px;">
+        <img src="https://raw.githubusercontent.com/silasviniDP/silasviniDP/main/GIFS/HiPikachu.gif" width="50px"/>
+      </td>
+      <td>
+        <h1 style="margin: 0;">Silas Vinícius</h1>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Simples Tags -->
 <p align="center">
@@ -39,7 +49,7 @@
 
 ---
 <!-- Ways to contact me -->
-## 🌐 Connect with me
+## 🤝🏻 Connect with me
 
 <p align="center">
 <a href="https://github.com/silasviniDP">
@@ -55,7 +65,10 @@
 
 ---
 <!-- Languages ​​I use -->
-## 🧠 Languages
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,html,python" />
@@ -63,7 +76,11 @@
 
 ---
 
-## 📊 Stats
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=silasviniDP&show_icons=true&theme=tokyonight"/>
@@ -82,8 +99,4 @@
 </p>
   <img src="https://github.com/silasviniDP/silasviniDP/blob/main/GIFS/RudoTeclado.gif" style = "height: 230px; width: 930px;"/>
   <br><br>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:B22222&height=120&width=930&section=footer"/>
 </div>
