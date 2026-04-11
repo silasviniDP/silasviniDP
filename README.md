@@ -1,6 +1,7 @@
 <!-- Head Banner -->
+
 <p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider" />
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
 </p>
 
 <div align="center">
@@ -16,9 +17,16 @@
   </table>
 </div>
 
-<!-- Simples Tags -->
+<!-- Typing Effect -->
+
 <p align="center">
-  <b> 🎌 Anime • 🎧 Love Music </b>
+  <img src="https://readme-typing-svg.herokuapp.com?color=7A5AF8&center=true&vCenter=true&width=500&lines=Focused+on+logic;Constantly+evolving;Building+my+path" />
+</p>
+
+<!-- Tags -->
+
+<p align="center">
+  🎌 Anime • 🎧 Music • 🧠 Focus & Growth
 </p>
 
 <p align="center">
@@ -32,24 +40,39 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
-<!-- My informations -->
-## 🚀 About Me
 
-- 🔭 **PT-BR:** Projeto em C para comprar ingressos de cinema  
-  **ENG:** C project to create a movie ticket buying algorithm  
+<!-- About Me -->
 
-- 🌱 **PT-BR:** Aprendendo Python, HTML5 e C  
-  **ENG:** Learning Python, HTML5 and C  
+<details open>
+<summary>🚀 About Me</summary>
 
-- 📫 Email: **svestudos40@gmail.com**
+<br>
 
-- ⚡ I like video games, anime and martial arts  
+* 🎓 **PT-BR:** Estudante focado em lógica e desenvolvimento
+  **ENG:** Student focused on logic and development
+
+* 💻 **PT-BR:** Desenvolvendo projetos em C e evoluindo constantemente
+  **ENG:** Building projects in C and constantly improving
+
+* 🧠 **PT-BR:** Mentalidade prática, direta e orientada à evolução
+  **ENG:** Practical, direct and growth-oriented mindset
+
+* ⚡ Interests: Video games, anime and martial arts
+
+* 📫 Email: **[svestudos40@gmail.com](mailto:svestudos40@gmail.com)**
+
+</details>
 
 ---
-<!-- Ways to contact me -->
-## 🤝🏻 Connect with me
+
+<!-- Connect -->
+
+<details>
+<summary>🤝🏻 Connect with me</summary>
+
+<br>
 
 <p align="center">
 <a href="https://github.com/silasviniDP">
@@ -63,23 +86,32 @@
 </a>
 </p>
 
+</details>
+
 ---
-<!-- Languages ​​I use -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<!-- Skills -->
+
+<details>
+<summary>🛠️ Skills</summary>
+
 <br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,html,python" />
 </p>
 
+</details>
+
 ---
 
-<br>
+<!-- Stats -->
 
+<details>
+<summary>📊 Github Stats</summary>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <p align="center">
@@ -87,16 +119,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasviniDP&layout=compact&theme=tokyonight"/>
 </p>
 
+</details>
 
 ---
-
 
 <!-- Footer -->
 
 <div align="center">
-  <p align="center">
-  <sub>Thanks for visiting</sub>
-</p>
-  <img src="https://github.com/silasviniDP/silasviniDP/blob/main/GIFS/RudoTeclado.gif" style = "height: 230px; width: 930px;"/>
-  <br><br>
+  <sub>Thanks for visiting</sub><br><br>
+  <img src="https://github.com/silasviniDP/silasviniDP/blob/main/GIFS/RudoTeclado.gif" style="height: 230px; width: 930px;"/>
 </div>
