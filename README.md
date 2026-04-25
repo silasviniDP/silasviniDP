@@ -55,7 +55,6 @@
 <br>
 
 * 🎓 Estudante focado em lógica e desenvolvimento.
-* 💻 Desenvolvendo projetos em C e evoluindo constantemente.
 * 🧠 Mentalidade prática, direta e orientada à evolução.
 * 🥚 Interesses: Jogos, Mangas e Artes Marciais.
 
@@ -97,9 +96,13 @@
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,python" />
-</p>
+<div align="center">
+  
+![](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=C&logoColor=FCC624)
+![](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572A5)
+![](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+
+<div/>
 
 </details>
 
