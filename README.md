@@ -4,10 +4,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/silasviniDP/silasviniDP/blob/main/Captura%20de%20tela%202026-04-13%20145250.png" style="height: 230px; width: 930px;"/>
-</p>
-
 <div align="center">
   <table>
     <tr>
@@ -126,6 +122,5 @@
 <!-- Footer -->
 
 <div align="center">
-  <sub>Obrigado por visitar!</sub><br><br>
-  <img src="https://github.com/silasviniDP/silasviniDP/blob/main/GIFS/Noah%20Sense%20Life%20GIF%20-%20Noah%20Sense%20life%20Manga%20animation%20-%20Descobrir%20e%20Compartilhar%20GIFs.gif" style="height: 230px; width: 930px;"/>
+  <h3>Obrigado por visitar!</h3>
 </div>
